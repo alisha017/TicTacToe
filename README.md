@@ -1,2 +1,2 @@
 # TicTacToe
-It is advance tictactoe game, developed for academic purposes
+It is an advanced tictactoe game, developed for academic purposes.
