@@ -1,5 +1,5 @@
 // TIC-TAC-TOE GAME
-
+// play it or lose it
 function gameState(){
     console.log("\n\t\tWELCOME TO TIC-TAC-TOE GAME")
     console.log("\nDo you want to \n1. Start a new game \n2. Resume the previous game\n3. Quit the game");
